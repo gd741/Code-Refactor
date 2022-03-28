@@ -1,6 +1,6 @@
 # Code Refactor
 
-Refractored code with comments
+Refactored code with comments
 
 ## User Story ##
 
