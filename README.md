@@ -1,5 +1,7 @@
 # Code Refactor
 
+Refractored code with comments
+
 ## User Story ##
 
 ```md
@@ -24,5 +26,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Demo image ##
-![alt text](https://github.com/gd741/gd741.github.io/blob/main/images/01-html-css-git-homework-demo.png)
+## Images ##
+![alt text](https://github.com/gd741/gd741.github.io/blob/main/assets/images/web1.jpg)
+![alt text](https://github.com/gd741/gd741.github.io/blob/main/assets/images/web2.jpg)
+![alt text](https://github.com/gd741/gd741.github.io/blob/main/assets/images/web3.jpg)
